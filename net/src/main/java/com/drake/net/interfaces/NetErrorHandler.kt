@@ -63,7 +63,7 @@ interface NetErrorHandler {
         }
 
         Net.debug(e)
-        TipUtils.toast(message)
+        // TipUtils.toast(message)
     }
 
     /**
