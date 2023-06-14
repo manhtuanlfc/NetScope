@@ -1,14 +1,2 @@
 include ':sample', ':net'
 rootProject.name='Net'
-
-dependencyResolutionManagement {
-    repositories {
-        maven {
-            url "https://maven.pkg.github.com/manhtuanlfc/*"
-            credentials {
-                username 'manhtuanlfc'
-                password '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'
-            }
-        }
-    }
-}
